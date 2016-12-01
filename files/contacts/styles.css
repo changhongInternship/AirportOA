@@ -44,15 +44,15 @@ background-color: rgba(0, 0, 0, .3);
 }
 
 #apartment1 {
-	width: 1080px;
+	position: relative;
+/*	width: 1080px;*/
 	height: 96px;
+	left: 57px;
 	font-family: "汉仪旗黑-35S";
 	text-align: left;
+	line-height: 96px;
 	color: #A3A3A5;
 	font-size: 48px;
-	background-color: #F8F8F8;
-	margin:0 0;
-	padding:0 0;
 }
 
 
